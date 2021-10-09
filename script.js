@@ -3,3 +3,4 @@ function hello(){
 }
 
 //Merging
+//added some text
